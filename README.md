@@ -1,0 +1,2 @@
+# Isograms
+JavaScript Codewars Exercise
